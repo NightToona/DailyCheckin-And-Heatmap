@@ -1,0 +1,10 @@
+{
+  "id": "daily-checkin-heatmap",
+  "name": "Daily Check-in & Heatmap",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "每日打卡、日历视图、内容热力图与统计数据一体化插件",
+  "author": "Claude",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
