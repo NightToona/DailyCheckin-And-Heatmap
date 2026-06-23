@@ -5,6 +5,12 @@ DailyCheckin-And-Heatmap，
 
 让打卡更加轻便，更加专注于笔记内容。
 
+## 压缩包下载
+
+📥点击下载压缩包：[daily-checkin-heatmap.zip](https://github.com/user-attachments/files/29253456/daily-checkin-heatmap.zip)
+
+Version：1.0.0
+
 ## 界面视图
 <img width="771" height="1301" alt="屏幕截图 2026-06-23 210707" src="https://github.com/user-attachments/assets/be956a79-8a96-4f17-a281-3c6da31751ae" />
 
