@@ -1,5 +1,9 @@
 # DailyCheck-In And Heatmap 1.0.0
-DailyCheckin-And-Heatmap，一个简约、易用的每日打卡(日历视图)、内容热力图与统计数据的一体化插件，专为 Obsidian！
+DailyCheckin-And-Heatmap，
+
+一个简约易用的 **每日打卡(日历视图)**、**内容热力图** 与 **统计数据** 的一体化插件，专为 Obsidian！
+
+让打卡更加轻便，更加专注于笔记内容。
 
 ## 界面视图
 <img width="771" height="1301" alt="屏幕截图 2026-06-23 210707" src="https://github.com/user-attachments/assets/be956a79-8a96-4f17-a281-3c6da31751ae" />
