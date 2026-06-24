@@ -41,4 +41,4 @@ Version：1.0.0
 
 
 ---
-Made By: NightToona & ClaudeCode
+Made By: NightToona with ClaudeCode
